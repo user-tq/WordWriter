@@ -1,0 +1,9 @@
+基因	外显子	核苷酸变异	氨基酸变异	丰度	药物名	用药提示
+BCR+NTRK3	FUSION	#<#	#<#	38.00%	拉罗替尼	敏感
+BCR+NTRK3	FUSION	#<#	#<#	38.00%	恩曲替尼	敏感
+MET	CNV_gain	#<#	#<#	8	克唑替尼	敏感
+BRAF	exon3	c.1125_1128delCAAG	p.V600E	23.53%	达拉非尼+曲美替尼	敏感
+BRAF	exon3	c.1125_1128delCAAG	p.V600E	23.53%	维罗非尼	敏感
+BRAF	exon3	c.1125_1128delCAAG	p.V600E	23.53%	达拉非尼	敏感
+ERBB2	exon20	c.2326_2327insTTT	p.G776delinsVC	40.71%	Ado-trastuzumab_emtansine	敏感
+ERBB2	exon20	c.2326_2327insTTT	p.G776delinsVC	40.71%	Fam-trastuzumab_deruxtecan-nxki	敏感
